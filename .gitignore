@@ -80,3 +80,39 @@ __recovery/
 
 # Boss dependency manager vendor folder https://github.com/HashLoad/boss
 modules/
+
+
+# My Lazarus GitIgnore
+
+# Dirs
+[Bb]in/
+[Bb]ackup/
+[Ll]ib/
+[Dd]ebug/
+
+# Filles, see https://wiki.freepascal.org/File_extensions
+*.bak
+*.dbg
+#*.exe
+#*.dll
+*.lps
+#*.res
+#*.lrs
+*.lrt
+#*.o
+#*.a
+*.rst
+*.ppu
+*.or
+*.compiled
+*[Tt]humbs.db
+
+# Ux
+#*.so
+*.deb
+*.rpm
+
+# Mac
+*.app/*
+*.dSYM
+.DS_Store
