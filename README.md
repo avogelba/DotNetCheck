@@ -16,11 +16,16 @@ Found ASoft .Net Version Detector, seems quite good and more advanced
 Copyright (C) 2004/2026 avogelba
 
 # Update
-v0.0.1.0 2004 firt version
+v0.0.1.0 2004 first version
+
 v0.0.2.0 2005 adde more checks
+
 v0.0.3.0-v0.0.9.0 added more Frameworks
+
 v0.1.0.0 2012 by avogelba: rewrite and made code more readable
+
 v0.2.0.0 2020 by avogelba: added some more Frameworks for .net 4.8.1
+
 v1.0.0.0 2026 by avogelba: refactor, use TCustomApplication, used some C++ example contants instead of hardcoded paths, support .Net V4.8.1 detection and Icon
 
 # Language
